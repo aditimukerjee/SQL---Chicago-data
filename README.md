@@ -1,5 +1,8 @@
 # SQL---Chicago-data
 
+This SQL combines all three datasets and answers questions regarding Chicago from combination of these datasets.
+
+The datasets are:
 1. Chicago Socioeconomic Indicators
 
 This dataset contains a selection of six socioeconomic indicators of public health significance and a hardship index, by Chicago community area, for the years 2008 – 2012.
