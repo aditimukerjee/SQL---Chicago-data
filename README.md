@@ -1,6 +1,6 @@
-# SQL---Chicago-data
+# SQL-Chicago-Dataset
 
-This SQL combines all three datasets and answers questions regarding Chicago from combination of these datasets.
+The SQL queries written combine all three datasets and answer questions regarding Chicago from a combination of these datasets.
 
 The datasets are:
 1. Chicago Socioeconomic Indicators
